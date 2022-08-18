@@ -9,10 +9,14 @@ the program is coded in the rust programming language and built using the rust b
 to build, use
 >cargo build
 
-
 and to run, use
 >cargo run input_file output_file
 
+## example
+<hr>
+an example of running the code is
+
+>cargo run assets/pexels-amber-janssens-7327624.bmp assets/outputs/pexels-amber-janssens-bw.bmp
 
 ## Triva
 <hr>
