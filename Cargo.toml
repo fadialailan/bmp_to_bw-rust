@@ -1,5 +1,5 @@
 [package]
-name = "BMP_To_BW"
+name = "bmp_to_bw"
 version = "0.1.0"
 edition = "2021"
 
